@@ -2,6 +2,10 @@
 
 A 2D simulator for a LEGO Mindstorms NXT 2.0 robot controlled by MATLAB.
 
+## Demo (video)
+
+[Project: NXTSim (2015) - Youtube](https://www.youtube.com/watch?v=nJ1a3b9S2m0)
+
 ## Deliverables
 
 * [NXTSim.jar](https://github.com/muttalipkucuk/nxtsim/blob/master/NXTSim.jar) - The executable desktop application
@@ -16,10 +20,6 @@ A 2D simulator for a LEGO Mindstorms NXT 2.0 robot controlled by MATLAB.
 ## Authors
 
 * **Muttalip Kucuk** - *All the work*
-
-## Demo (video)
-
-[Project: NXTSim (2015) - Youtube](https://www.youtube.com/watch?v=nJ1a3b9S2m0)
 
 ## License
 
