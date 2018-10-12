@@ -19,7 +19,7 @@ A 2D simulator for a LEGO Mindstorms NXT 2.0 robot controlled by MATLAB.
 
 ## Authors
 
-* **Muttalip Kucuk** - *Student*
+* Muttalip Kucuk - *Student*
 
 ## License
 
