@@ -29,4 +29,3 @@ This project is licensed under the MIT License.
 
 * Natalia Silvis-Cividjian - *Supervisor*
 * Anton Eliens - *Second reader*
-
